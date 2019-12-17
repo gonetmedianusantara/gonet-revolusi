@@ -2,6 +2,6 @@ Rencana Konten Gonet
 
 - Web dengan Wordpress
   * Download Wordpress
-  * Hosting
+  * Filezilla
 - Aplikasi2 yang sering digunakan
 - The BIG Project
